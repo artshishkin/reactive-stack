@@ -1,0 +1,13 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["gateway", "blog", "store"],
+    "clusteredDbApps": [],
+    "deploymentType": "docker-compose",
+    "directoryPath": "../",
+    "dockerRepositoryName": "artarkatesoft",
+    "gatewayType": "SpringCloudGateway",
+    "jwtSecretKey": "Yzk3NjA5MmZmYmMxOTFiNzMzMWMyOGI3NDkwZTk5NzAyYWMxZWRhMTUwZmEzMmQ2YjEyZTRjYTcyZGVmMGE0ZGJkODU2NjE2NWU5MTgzNjcxNzRmMGQyZDg5MGJlNWUxYmViMg==",
+    "monitoring": "no",
+    "serviceDiscoveryType": "eureka"
+  }
+}
